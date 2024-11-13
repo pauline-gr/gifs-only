@@ -1,0 +1,13 @@
+{
+    "name": "gifs-only",
+    "version": "1.0.0",
+    "description": "Bot Discord qui permet de n'utiliser que des gifs et des images sur un canal",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.16.3",
+        "dotenv": "^16.4.5"
+    }
+}
